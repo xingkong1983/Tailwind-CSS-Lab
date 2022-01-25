@@ -7,7 +7,7 @@ Some demos of the Tailwind CSS 。
 
 ### 布局
 
-- [01. 居中布局](./layout/layout-001.html)
+- [01. 居中布局](./layout/layout-001.md)
 - [02. 上下布局]()
 - [03. 左右布局]()
 - [04. 三栏布局]()
